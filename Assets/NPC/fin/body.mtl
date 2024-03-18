@@ -1,0 +1,130 @@
+# Apple ModelI/O MTL File: body.mtl
+
+newmtl lambert4SG
+	map_Kd lambert4SG-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic lambert4SG-metallic.png
+	specularTint 0
+	map_roughness lambert4SG-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl lambert2SG
+	map_Kd lambert2SG-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic lambert2SG-metallic.png
+	specularTint 0
+	map_roughness lambert2SG-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl lambert8SG
+	map_Kd lambert8SG-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic lambert8SG-metallic.png
+	specularTint 0
+	map_roughness lambert8SG-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl lambert9SG
+	map_Kd lambert9SG-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic lambert9SG-metallic.png
+	specularTint 0
+	map_roughness lambert9SG-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl lambert7SG
+	map_Kd lambert7SG-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic lambert7SG-metallic.png
+	specularTint 0
+	map_roughness lambert7SG-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl lambert6SG
+	map_Kd lambert6SG-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic lambert6SG-metallic.png
+	specularTint 0
+	map_roughness lambert6SG-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl lambert3SG
+	map_Kd lambert3SG-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic lambert3SG-metallic.png
+	specularTint 0
+	map_roughness lambert3SG-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl lambert5SG
+	map_Kd lambert5SG-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic lambert5SG-metallic.png
+	specularTint 0
+	map_roughness lambert5SG-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
